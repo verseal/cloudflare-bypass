@@ -1,5 +1,5 @@
 {
-    "name": "kyranrana/cloudflare-bypass",
+    "name": "verseal/cloudflare-bypass",
     "description": "Library for helping bypass the Cloudflare IUAM page",
     "license": "Unlicense",
     "homepage": "https://github.com/KyranRana/cloudflare-bypass",
